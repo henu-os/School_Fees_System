@@ -32,4 +32,4 @@ This system allows administrators to manage students, branches, and fee transact
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/School_Fees_System.git
+   git clone https://github.com/henu-os/School_Fees_System.git
